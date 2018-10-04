@@ -6,6 +6,8 @@ Goal of this repository is to practice helm charts. There will be three helm cha
 * Go-Producer
 * Go-Consumer
 
+![producer-consumer kafka](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuUBAoqz9LL0gACfFAKrEBLA22IJdvnMNve852ajJIrCLiXFJiXEvk60A5NHrxQ1YO1BCXsdYSaZDIm6Q3W00.svg)
+
 # go-producer
 
 more details in `ci-script.sh` - test, build binary and docker image, push to registry  
